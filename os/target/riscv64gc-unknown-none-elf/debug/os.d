@@ -1,1 +1,0 @@
-/home/dingduck/Project/rs/os/target/riscv64gc-unknown-none-elf/debug/os: /home/dingduck/Project/rs/os/src/console.rs /home/dingduck/Project/rs/os/src/entry.asm /home/dingduck/Project/rs/os/src/lang_items.rs /home/dingduck/Project/rs/os/src/main.rs /home/dingduck/Project/rs/os/src/sbi.rs
